@@ -1,6 +1,6 @@
 const React = require('react');
+import PropTypes from 'prop-types'
 const {
-  PropTypes,
   Component,
 } = React;
 const { ViewPropTypes } = ReactNative = require('react-native');
